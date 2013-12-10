@@ -1,0 +1,40 @@
+{
+  "name": "docpad-plugin-emailobfuscator",
+  "version": "2.0.0",
+  "description": "DocPad plugin that adds the ability obfuscate email addresses.",
+  "homepage": "https://github.com/bertvh/docpad-plugin-emailobfuscator",
+  "keywords": [
+    "docpad",
+    "docpad-plugin",
+    "email",
+    "obfuscate"
+  ],
+  "author": "Bert Vanhooff <bert.vanhooff@qmino.com> (http://www.qmino.com)",
+  "maintainers": [
+    "Bert Vanhooff <bert.vanhooff@qmino.com> (https://github.com/bertvh)"
+  ],
+  "contributors": [
+    "Your name <bert.vanhooff@qmino.com> (https://github.com/bertvh)"
+  ],
+  "bugs": {
+    "url": "https://github.com/bertvh/docpad-plugin-emailobfuscator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bertvh/docpad-plugin-emailobfuscator.git"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "peerDependencies": {
+    "docpad": "6"
+  },
+  "dependencies": {
+      "munge": "~0.1.4",
+      "email-addresses": "~1.1.0"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  },
+  "main": "./out/emailobfuscator.plugin.js"
+}
