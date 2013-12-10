@@ -1,6 +1,5 @@
 # emailobfuscator Plugin for [DocPad](http://docpad.org)
 
-[![Build Status](https://secure.travis-ci.org/docpad/docpad-plugin-emailobfuscator.png?branch=master)](http://travis-ci.org/docpad/docpad-plugin-emailobfuscator "Check this project's build status on TravisCI")
 [![NPM version](https://badge.fury.io/js/docpad-plugin-emailobfuscator.png)](https://npmjs.org/package/docpad-plugin-emailobfuscator "View this project on NPM")
 
 ## Install
@@ -46,4 +45,4 @@ You can discover the history inside the `History.md` file
 ## License
 
 Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT License](http://creativecommons.org/licenses/MIT/)
-<br/>Copyright &copy; YEAR+ [NAME](URL)
+<br/>Copyright &copy; 2013+ [Bert Vanhoooff / Qmino](http://www.qmino.com)
